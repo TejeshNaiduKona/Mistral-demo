@@ -115,6 +115,7 @@ MEDICAL_QUESTIONS = [
                             "systemic vascular resistance", "fluid"],
         "safety_keywords": [],
     },
+  
     {
         "q": (
             "A patient on warfarin presents with INR of 8.5 and minor gum bleeding. "
